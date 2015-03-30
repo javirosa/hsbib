@@ -1,0 +1,1 @@
+HsBib represents my vision in how documents should be managed and accessed.
